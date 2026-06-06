@@ -1,0 +1,20 @@
+# Farbe - Alemannische Wikipedia
+
+URL: https://als.wikipedia.org/wiki/Farbe
+Source: als.wikipedia.org
+Fetched: 20260604-000628
+Cycle: 15
+Quality: 0.73
+Language: en
+On-topic: yes
+Body: 3710 chars, ~502 words
+
+## Design signals
+- top_colors: —
+- fonts: Johann Wolfgang, Vision Research, Wikipedia Zum Inhalt
+- designers_mentioned: —
+- gradients: 0
+
+## Body
+
+Farbe - Alemannische Wikipedia Zum Inhalt springen Us der alemannische Wikipedia, der freie Dialäkt-Enzyklopedy Farbstift in verschiidene Farbe Farb isch en indiwiduelli wisuelli Woornäämig, wo dur Liecht entstoot. D Farbräiz, wo dr Mensch cha woornää, lige im Beriich zwüsche 380 nm und 780 nm vom elektromagnetische Spektrum. D Farbwoornäämig isch subjektiv und wird beiiflusst vo de Äigeschafte vom Aug, zum Bischbil wie empfindlig d Rezeptore si. Mä muess anderi optischi Woornäämige wie Struktur (Liecht-Schatte-Wirkige), Glanz oder Ruuchhäit, und psüchischi Effekt und Fänomen vom Seesinn, wie Umstimmig oder Adapzioon, vom Farbbegriff drenne. DIN 5033 definiert s eso: Farbe ist diejenige Gesichtsempfindung eines dem Auge des Menschen strukturlos erscheinenden Teiles des Gesichtsfeldes, durch die sich dieser Teil bei einäugiger Beobachtung mit unbewegtem Auge von einem gleichzeitig gesehenen, ebenfalls strukturlosen angrenzenden Bezirk allein unterscheiden kann. Liechtfarb[ändere | Quälltäxt bearbeite] Lueg au: Liechtfarbe Für dass Farb cha woorgnoo wärde, brucht s Liecht. Das entstot dur d Wermibewegig vo Molekül bzw. Atom oder dur Ändrige in de Energiiniwoo vo dr Elektronehülle vo Atom. Körperfarb[ändere | Quälltäxt bearbeite] D Körperfarb isch die wisuelli Woornäämig vo Gegeständ, wo dur spezifischi Ändrige vom remittierte Spektrum wäge dr Absorpzion vo stoffspezifische Wällelengene vo dr optische Straalig oder dur Ströijig vo dr Oberflechi reflektiert wird. In dr Moolerei wird dr Begriff Gegestandsfarb brucht und im Spezielle Fall Lokalfarb as Gegesatz zum Gsamtdoon. Drbii cha au dur d Struktur vo dr Oberflechi e füsikalisch begründeti Färbi entstoo, wie öbbe die schillernde Fläcke uf de Flügel vom ene Summervogel. Litratuur[ändere | Quälltäxt bearbeite] Harald Braem: Die Macht der Farben, Langen/Müller, Münche 2003, ISBN 3-7844-7156-0. Hans Gekeler: DuMont's Handbuch der Farbe (Systematik und Ästhetik). DuMont, Köln 1988, ISBN 3-7701-2111-2. Rolf Gierling: Farbmanagement. MITP, Bonn 2006 (3. Uflaag), ISBN 3-8266-1626-X. Johann Wolfgang von Goethe: Zur Farbenlehre. Cotta, Tübinge 1810. Eva Heller: Wie Farben auf Gefühl und Verstand wirken. Knaur, Droemer 2000, ISBN 3-426-27174-5. Johannes Itten: Kunst der Farbe, Otto Maier, Ravensburg 1970, ISBN 3-473-61551-X. Friedrich Kobler, Manfred Koller: Farbigkeit der Architektur, in: Reallexikon zur Deutschen Kunstgeschichte, Bd. 7, 1975, Sp. 274-428, bsundrigs Sp. 282 ff. Harald Küppers: Die Logik der Farbe. Theoretische Grundlagen der Farbenlehre. Callwey, München 1981 (2. Uflaag), ISBN 3-7667-0601-2. Horst O. Mayer: Einführung in die Wahrnehmungs-, Lern- und Werbepsychologie. Oldenbourg, Münche 2005, ISBN 3-486-57675-5. Emil Ernst Ploß: Ein Buch von alten Farben. Technologie der Textilfarben im Mittelalter mit einem Ausblick auf die festen Farben. Heidelberg und Berlin 1962, Neudruck: Moos, Münche 1977 (4. Uflaag), ISBN 3-7879-0064-0. Petra E. Weingart, Rudolf Forster (Hrsg.): Ich und die Farbe sind eins. Kovac, Hamburg 2005, ISBN 3-8300-1813-4. Norbert Welsch, Claus Chr. Liebmann: Farben. Natur, Technik, Kunst. Spektrum, Münche 2004, ISBN 3-8274-1563-2. Weblingg[ändere | Quälltäxt bearbeite] Commons: Farb – Sammlig vo Multimediadateie Farbsysteme in Kunst und Wissenschaft Farbnamen: eigene Kenntnis testen Colour and Vision Research Labs: Farbwerte, Spektralwerte und Tristimulus-Werte, UCL Farbdefinitionen unterteilt nach Schattierungen Dä Artikel basiert uff ere fräie Übersetzig vum Artikel „Farbe“ vu de dütsche Wikipedia. E Liste vu de Autore un Versione isch do z finde. Vun "https://als.wikipedia.org/w/index.php?title=Farbe&oldid=946792" Kategorie: Moolerei Physiologii Farbe Abschnitt zuefiege
