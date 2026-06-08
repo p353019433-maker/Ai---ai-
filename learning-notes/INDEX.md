@@ -8,6 +8,9 @@ Principle: **do not delete or rewrite original source files just because they we
 ## Applied Synthesis
 
 - [APPLIED-DESIGN-JUDGMENT.md](APPLIED-DESIGN-JUDGMENT.md) — converts batches 001-025 into reusable design judgment: ten principles, anti-AI-slop review checklist, prompt pattern, and four design modes.
+- [DESIGN-CONFLICTS.md](DESIGN-CONFLICTS.md) — documents where correct principles collide and how to decide which principle should lose.
+- [DESIGN-ANTI-PORTFOLIO.md](DESIGN-ANTI-PORTFOLIO.md) — records wrong instincts and belief changes after the learning project.
+- [LESS-AMNESIAC-DESIGN.md](LESS-AMNESIAC-DESIGN.md) — expands the core insight that bad AI design is design without memory.
 
 ## Current Batch Map
 

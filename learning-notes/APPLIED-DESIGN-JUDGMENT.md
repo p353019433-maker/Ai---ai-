@@ -185,4 +185,6 @@ The project started as “make AI design less ugly”. The better target is shar
 
 Bad AI design has no memory of medium, institution, production, reading, use, labor, or history. Good design does not need to be visually quiet; it needs to know why it looks the way it does and what human situation it is preserving.
 
-Batch-025 closes the reading ledger: all 1,456 priority rows are now accounted for as read, reference, duplicate, cross-language, asset/low-relevance, or missing source. The next valuable work is application: critique real UI, generate designs under these rules, and compare outputs against this checklist.
+Batch-025 closes the ledger by classifying all 1,456 priority rows, not by pretending all 1,456 were deeply read. A meaningful share are duplicates, references, assets/low-relevance pages, cross-language validations, or missing-source rows. That distinction matters: the project is methodologically complete as an audit trail, while the deep-read volume is smaller than the headline row count.
+
+The next valuable work is application and adversarial self-review: critique real UI, generate designs under these rules, compare outputs against this checklist, and keep recording conflicts where good principles fight.
