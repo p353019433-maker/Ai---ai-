@@ -4,6 +4,11 @@ This index summarizes the design-aesthetic learning batches and keeps the reposi
 
 Principle: **do not delete or rewrite original source files just because they were processed.** Raw files and manifest paths are evidence. Organization should happen through indexes, manifests, and summaries first.
 
+
+## Applied Synthesis
+
+- [APPLIED-DESIGN-JUDGMENT.md](APPLIED-DESIGN-JUDGMENT.md) — converts batches 001-025 into reusable design judgment: ten principles, anti-AI-slop review checklist, prompt pattern, and four design modes.
+
 ## Current Batch Map
 
 | Batch | Priority range | Status | Main themes |
