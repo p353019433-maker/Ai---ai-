@@ -11,6 +11,9 @@ Principle: **do not delete or rewrite original source files just because they we
 - [DESIGN-CONFLICTS.md](DESIGN-CONFLICTS.md) — documents where correct principles collide and how to decide which principle should lose.
 - [DESIGN-ANTI-PORTFOLIO.md](DESIGN-ANTI-PORTFOLIO.md) — records wrong instincts and belief changes after the learning project.
 - [LESS-AMNESIAC-DESIGN.md](LESS-AMNESIAC-DESIGN.md) — expands the core insight that bad AI design is design without memory.
+- [DESIGN-LAB-PROTOCOL.md](DESIGN-LAB-PROTOCOL.md) — defines how to validate the archive in real projects; protocol, not evidence.
+
+Next phase: do not expand the corpus by default. Pick one real project, apply the principles, collect critique/effect evidence, and update the doctrine where it fails.
 
 ## Current Batch Map
 
