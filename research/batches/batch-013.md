@@ -2,7 +2,7 @@
 
 Source: priorities 185-214 from `corpus-metadata/reading-priority-list.csv`.
 
-Status: mixed batch. Substantive articles were deep-read; contact/legal/terms/author/category/news pages were treated as structural signals or duplicates. Original source files are kept.
+Status: mixed batch. Substantive articles were deep-read; contact/legal/terms/author/category/news pages were treated as structural signals or duplicates. Original source files have since been removed after distillation; see ../../corpus/README.md.
 
 ## Batch Thesis
 

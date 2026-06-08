@@ -2,7 +2,7 @@
 
 Source: priorities 75-100 from `corpus-metadata/reading-priority-list.csv`.
 
-Status: larger deep-read batch. Some entries are full articles; a few are index/homepage/theory notes. Original article files are kept.
+Status: larger deep-read batch. Some entries are full articles; a few are index/homepage/theory notes. Original article files have since been removed after distillation; see ../../corpus/README.md.
 
 ## Batch Thesis
 

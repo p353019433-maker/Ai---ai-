@@ -12,7 +12,7 @@ Current structure:
   - `DESIGN-LAB-PROTOCOL.md`
 - Batch notes now live in [`batches/`](batches/).
 - The processing ledger is [`processed-manifest.csv`](processed-manifest.csv).
-- Raw article evidence now lives in [`../corpus/articles/`](../corpus/articles/).
+- Raw article bodies were distilled into [`batches/`](batches/) and then removed; see [`../corpus/README.md`](../corpus/README.md).
 
 ## Batch Map
 

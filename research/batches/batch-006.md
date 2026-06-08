@@ -2,7 +2,7 @@
 
 Source: priorities 36-50 from `corpus-metadata/reading-priority-list.csv`.
 
-Status: accelerated deep read. Original article files are kept.
+Status: accelerated deep read. Original article files have since been removed after distillation; see ../../corpus/README.md.
 
 ## Batch Triage
 

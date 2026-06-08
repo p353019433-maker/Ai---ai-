@@ -2,7 +2,7 @@
 
 Source: priorities 101-126 from `corpus-metadata/reading-priority-list.csv`.
 
-Status: mixed batch. Strong articles were deep-read; index/API/sitemap/feed entries were treated as structural signals and not over-interpreted. Original source files are kept.
+Status: mixed batch. Strong articles were deep-read; index/API/sitemap/feed entries were treated as structural signals and not over-interpreted. Original source files have since been removed after distillation; see ../../corpus/README.md.
 
 ## Batch Thesis
 

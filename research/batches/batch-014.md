@@ -2,7 +2,7 @@
 
 Source: priorities 215-244 from `corpus-metadata/reading-priority-list.csv`.
 
-Status: mixed batch. Substantive case studies, UX articles, satire pieces, and type reviews were deep-read. Category/index/API/feed/author pages were treated as structural signals. Priority 225 points to a missing local file and is recorded as unavailable, not re-fetched. Original source files are kept.
+Status: mixed batch. Substantive case studies, UX articles, satire pieces, and type reviews were deep-read. Category/index/API/feed/author pages were treated as structural signals. Priority 225 points to a missing local file and is recorded as unavailable, not re-fetched. Original source files have since been removed after distillation; see ../../corpus/README.md.
 
 ## Batch Thesis
 

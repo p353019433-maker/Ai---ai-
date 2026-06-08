@@ -2,7 +2,7 @@
 
 Source: priorities 155-184 from `corpus-metadata/reading-priority-list.csv`.
 
-Status: mixed batch. Pentagram sector/category pages and Eye on Design category pages are treated as structural/editorial signals; substantive case studies and reviews are deep-read. Original source files are kept.
+Status: mixed batch. Pentagram sector/category pages and Eye on Design category pages are treated as structural/editorial signals; substantive case studies and reviews are deep-read. Original source files have since been removed after distillation; see ../../corpus/README.md.
 
 ## Batch Thesis
 

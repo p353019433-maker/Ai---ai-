@@ -2,7 +2,7 @@
 
 Source: first 10 entries from `corpus-metadata/reading-priority-list.csv`.
 
-Status: read and distilled. Original article files are kept.
+Status: read and distilled. Original article files have since been removed after distillation; see ../../corpus/README.md.
 
 ## Core Takeaways
 
