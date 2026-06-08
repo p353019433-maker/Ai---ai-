@@ -1,14 +1,10 @@
-# Corpus — Raw Article Evidence
+# Corpus
 
-这里保存原始文章正文证据库。
+This directory used to hold 2,266 raw article bodies.
 
-- [`articles/`](articles/)：2266 篇本地正文，文件名保留原采集命名。
+Those files have been removed after full digestion into batch notes and synthesis documents.
 
-配套索引在 [`../research/corpus-metadata/`](../research/corpus-metadata/)：
-
-- `reading-priority-list.csv`
-- `reading-by-topic.csv`
-- `all-articles-manifest.csv`
-- `all-articles-unified.json`
-
-如果要从 priority 找原文，先读 `research/corpus-metadata/reading-priority-list.csv`。其中旧 `path` 字段可能仍指向历史绝对路径；当前仓库内正文统一在 `corpus/articles/`，用文件名对应。
+All article evidence is now accessible through:
+- Batch notes: `../research/batches/`
+- Processed ledger: `../research/processed-manifest.csv`
+- Priority reading list: `../research/corpus-metadata/reading-priority-list.csv`
