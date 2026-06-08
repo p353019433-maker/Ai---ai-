@@ -1,0 +1,20 @@
+# Fonts In Use – Staff Picks
+
+URL: https://fontsinuse.com/staff-picks.rss
+Source: fontsinuse.com
+Fetched: 20260603-105647
+Cycle: 4
+Quality: 0.75
+Language: en
+On-topic: yes
+Body: 3721 chars, ~240 words
+
+## Design signals
+- top_colors: —
+- fonts: Jones Type
+- designers_mentioned: —
+- gradients: 0
+
+## Body
+
+Fonts In Use – Staff Picks https://fontsinuse.com Fonts In Use – Type at work in the real world. Staff Picks en Copyright 2026 , FontsInUse.com LLC Wed, 03 Jun 2026 10:40:05 +0000 Wed, 03 Jun 2026 10:40:05 +0000 3600 https://fontsinuse.com/uses/73911/philadelphia-museum-of-art-identity https://fontsinuse.com/uses/73911/philadelphia-museum-of-art-identity Wed, 03 Jun 2026 08:28:47 +0000 Ryan Bugden https://fontsinuse.com/uses/77459/kic-60-from-information-to-culture-60-years-o https://fontsinuse.com/uses/77459/kic-60-from-information-to-culture-60-years-o Mon, 01 Jun 2026 06:45:48 +0000 Arthur Calame https://fontsinuse.com/uses/74257/august-issue-02-new-york https://fontsinuse.com/uses/74257/august-issue-02-new-york Mon, 01 Jun 2026 06:38:59 +0000 Aubrey Hays, Frere-Jones Type https://fontsinuse.com/uses/77529/g-ricordi-and-co-advertising-card https://fontsinuse.com/uses/77529/g-ricordi-and-co-advertising-card Sun, 31 May 2026 20:20:26 +0000 Richard Sheaff https://fontsinuse.com/uses/77442/boards-of-canada-inferno-album-art-and-campai https://fontsinuse.com/uses/77442/boards-of-canada-inferno-album-art-and-campai Fri, 29 May 2026 09:27:14 +0000 alexmiskin https://fontsinuse.com/uses/77482/parsons-communication-design-lecture-series-s https://fontsinuse.com/uses/77482/parsons-communication-design-lecture-series-s Thu, 28 May 2026 07:00:58 +0000 Maria Doreuli https://fontsinuse.com/uses/77438/karma-kebab https://fontsinuse.com/uses/77438/karma-kebab Thu, 28 May 2026 06:51:04 +0000 Ramiro Espinoza https://fontsinuse.com/uses/77363/missing-sign-by-lucas-descroix https://fontsinuse.com/uses/77363/missing-sign-by-lucas-descroix Tue, 26 May 2026 08:50:38 +0000 Plain Form https://fontsinuse.com/uses/77670/lockheed-l-1011-tristar https://fontsinuse.com/uses/77670/lockheed-l-1011-tristar Sun, 24 May 2026 16:49:00 +0000 Ben Zotto https://fontsinuse.com/uses/75741/batman-the-animated-series-season-2-episode-t https://fontsinuse.com/uses/75741/batman-the-animated-series-season-2-episode-t Sun, 24 May 2026 10:04:00 +0000 fangly https://fontsinuse.com/uses/76456/farol-film-festival-o-cinema-entre-a-memoria- https://fontsinuse.com/uses/76456/farol-film-festival-o-cinema-entre-a-memoria- Fri, 22 May 2026 14:23:14 +0000 Estúdio Fóssil https://fontsinuse.com/uses/77313/la-loge-1 https://fontsinuse.com/uses/77313/la-loge-1 Thu, 21 May 2026 08:21:38 +0000 Fakepaper https://fontsinuse.com/uses/77326/graphisme-en-france-2026-1 https://fontsinuse.com/uses/77326/graphisme-en-france-2026-1 Thu, 21 May 2026 08:04:33 +0000 Sarah Fenrich https://fontsinuse.com/uses/77181/bad-head-no-37-poster https://fontsinuse.com/uses/77181/bad-head-no-37-poster Tue, 19 May 2026 08:51:09 +0000 Daria Cohen https://fontsinuse.com/uses/68424/sidabro-merginos-silver-girls https://fontsinuse.com/uses/68424/sidabro-merginos-silver-girls Mon, 18 May 2026 07:23:42 +0000 Erik van Blokland https://fontsinuse.com/uses/77137/campo-e-cidade-na-america-latina https://fontsinuse.com/uses/77137/campo-e-cidade-na-america-latina Fri, 15 May 2026 08:16:48 +0000 Goma Oficina https://fontsinuse.com/uses/76753/hotel-monasterio-de-san-francisco https://fontsinuse.com/uses/76753/hotel-monasterio-de-san-francisco Thu, 14 May 2026 07:50:00 +0000 Proof of Words https://fontsinuse.com/uses/76334/hoopla https://fontsinuse.com/uses/76334/hoopla Thu, 14 May 2026 07:32:00 +0000 Andrei Robu https://fontsinuse.com/uses/77111/the-florian-1 https://fontsinuse.com/uses/77111/the-florian-1 Wed, 13 May 2026 07:38:33 +0000 Olivia Kane https://fontsinuse.com/uses/77084/l-appartement-architectures-du-collectif-exhi https://fontsinuse.com/uses/77084/l-appartement-architectures-du-collectif-exhi Tue, 12 May 2026 11:22:00 +0000 Arthur Calame

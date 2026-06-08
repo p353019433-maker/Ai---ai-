@@ -1,0 +1,20 @@
+# Cover Pages: Standard Generalized Markup Language (SGML)
+
+URL: https://web.archive.org/web/20190219135940/http://xml.coverpages.org/sgml.html
+Source: web.archive.org
+Fetched: 20260603-191109
+Cycle: 7
+Quality: 0.90
+Language: en
+On-topic: yes
+Body: 3309 chars, ~476 words
+
+## Design signals
+- top_colors: —
+- fonts: About This, And More, Internet Archive, Press Releases, THE USE, The Use, Wayback Machine, You Could
+- designers_mentioned: Favor
+- gradients: 0
+
+## Body
+
+Cover Pages: Standard Generalized Markup Language (SGML) 391 captures 18 Feb 2001 - 28 Mar 2026 Jan FEB Mar 19 2018 2019 2020 success fail About this capture COLLECTED BY Organization: Alexa Crawls Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive. Flowing in every day, these data are added to the Wayback Machine after an embargo period. Collection: Alexa Crawls Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive. Flowing in every day, these data are added to the Wayback Machine after an embargo period. TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20190219135940/http://xml.coverpages.org:80/sgml.html SEARCH | ABOUT | INDEX | NEWS | CORE STANDARDS | TECHNOLOGY REPORTS | EVENTS | LIBRARY SEARCH Advanced Search ABOUT Site Map CP RSS Channel Contact Us Sponsoring CP About Our Sponsors NEWS Cover Stories Articles & Papers Press Releases CORE STANDARDS XML SGML Schemas XSL/XSLT/XPath XLink XML Query CSS SVG TECHNOLOGY REPORTS XML Applications General Apps Government Apps Academic Apps EVENTS LIBRARY Introductions FAQs Bibliography Technology and Society Semantics Tech Topics Software Related Standards Historic Last modified: July 12, 2002 Core Standards Standard Generalized Markup Language (SGML) SGML and XML as (Meta-) Markup Languages Both SGML and XML are "meta" languages because they are used for defining markup languages. A markup language defined using SGML or XML has a specific vocabulary (labels for elements and attributes) and a declared syntax (grammar defining the hierarchy and other features). Conceived notionally in the 1960s - 1970s, the Standard Generalized Markup Language (SGML, ISO 8879:1986) gave birth to a profile/subset called the Extensible Markup Language (XML), published as a W3C Recommendation in 1998. Depending upon your perspective and requirements, the differences between SGML and XML are inconsequential or immense. SGML is more customizable (thus flexible and more "powerful") at the expense of being (much) more expensive to implement. In an SGML language you could say <COVER PAGES>, whereas in XML this construct could not be DTD valid. For an overview of differences, see James Clark's document "Comparison of SGML and XML"; for other treatments, see references in XML and/versus SGML. As of 2002-07, relatively few enterprise-level projects are started as SGML applications, but many SGML applications implemented before 1999 are still running productively. In some cases, peculiar business requirements favor the use of SGML for certain features that have been eliminated in XML. Although interest has shifted massively toward XML, the Cover Pages retains a substantial collection of legacy information about SGML. The document providing General Information and Overviews for SGML includes references to online tutorials. Other documents covering principally SGML topics include: General Applications Government Applications Academic Applications Structured Bibliography SGML FAQs (Answers to "Frequently Asked Questions") [Most 1989-1997] Conferences, Seminars, Tutorials, Workshops Receive daily news updates from Managing Editor, Robin Cover. Document URI: http://xml.coverpages.org/sgml.html — Legal stuff Robin Cover, Editor: robin@oasis-open.org

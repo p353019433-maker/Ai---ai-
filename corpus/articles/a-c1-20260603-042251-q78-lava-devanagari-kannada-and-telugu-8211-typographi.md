@@ -1,0 +1,18 @@
+# Lava Devanagari, Kannada, and Telugu &#8211; Typographica
+
+URL: https://typographica.org/typeface-reviews/lava-devanagari-kannada-and-telugu/
+Source: typographica.org
+Fetched: 20260603-042251
+Cycle: 1
+Quality: 0.78
+Body: 3282 chars, ~534 words
+
+## Design signals
+- top_colors: —
+- fonts: —
+- designers_mentioned: —
+- gradients: 0
+
+## Body
+
+Lava Devanagari, Kannada, and Telugu – Typographica Get a prominent ad at a reasonable rate. Support Typographica. Sponsor Nameplate set in Valnera and Pritzious by CAST Foundry. Your typeface could be next. Learn more. Designer Parimal Parmar, Peter Biľak, Ramakrishna Saiteja Foundry Typotheque Script Devanagari Kannada Telugu Featured in Typefaces of 2019 Get the Fontsi Typotheque Fontstand (Devanagari) Fontstand (Kannada) Fontstand (Telugu) First released as a Latin family in 2013, the highly legible and readable Lava was designed to facilitate long-form reading on screen and in print. To lead the type family into the universe of Indic scripts, Typotheque collaborated with type designers Parimal Parmar, who drew the Devanagari; and Ramakrishna Saiteja, who drew Kannada and Telugu companions for Lava Latin, designed by Peter Biľak. Knowing these scripts as natives gave the designers the confidence to stretch and play with the design within the constraints of an editorial brief. In my opinion, this confidence and familiarity are what bring all of the scripts supported by Lava into harmony while keeping them true to their individual nature. Devanagari, Kannada, and Telugu belong to two different script systems under the Indics umbrella, and each comes with its own set of challenges. Kannada and Telugu are South Indian scripts with heavier horizontals, and are rich in vertical conjunct clusters that can make the texture of any body text erratic. Devanagari, on the other hand, is the most common of the North Indian scripts. It has the “shirorekha”, or headline, which calls for a good degree of weight management in the strokes, especially in heavier weights. Lava’s Indics handle these issues with great skill and ease. Although greatly influenced by the classical contrast and proportions of traditional calligraphy, the Indic versions of Lava have an air of freshness and modernity. This is perhaps the result of the simplified structure, straight cuts to the terminals, speediness and tension in the curves, or the narrow proportions of a news face. It is one of those designs: the more time I spend with it, the more it surprises me. The details are a blend of sharp cuts and soft transitions of stems into curves. The shapes are capable of performing well at smaller sizes, but also have the elegance to stand out in display applications. I would not call Lava a workhorse, since its features and details are very clearly not neutral. Lava is probably more like a dressage horse — it puts in the work but maintains its flair! Namrata Goyal is based in India and working as part of the team of type designers at Universal Thirst, while also publishing fonts independently with Future Fonts. She has drawn type for Latin, Devanagari and Gurmukhi scripts. After completing her graduation from Srishti Manipal Institute, Namrata went to the condensed Type@Cooper program in New York and received her Masters in Type and Media at KABK Den Haag, in 2018. ← Prev Review Next Review → One Comment Hruday D Mallubhotla says: 02.01.21 at 9:09am As a Telugu reader, the heavier weights really show off the attention to detail. Often heavy weights will be exhausting to read with the inner details of each character looking cramped, but this is a gorgeous balance.

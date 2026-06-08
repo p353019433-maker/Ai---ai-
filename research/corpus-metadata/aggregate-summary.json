@@ -1,0 +1,27 @@
+{
+  "v1-PROMPT-EXPLORE": {
+    "total_files": 4514,
+    "design": 1847,
+    "noise": 544,
+    "related": 114,
+    "unique_urls": 4514,
+    "high_signal_design": 515,
+    "top_source": "web.archive.org (1576/1847 DESIGN)",
+    "strategy": "Internet Archive heavy, historical snapshots"
+  },
+  "v2-overnight": {
+    "total_files": 1530,
+    "classification": "auto (q-based)",
+    "unique_urls": 1530,
+    "high_signal": 333,
+    "top_source": "en.wikipedia.org (220), web.archive.org (161), eyeondesign.aiga.org (142)",
+    "strategy": "Curated design publications + multi-lang wiki"
+  },
+  "combined": {
+    "total_records": 6044,
+    "unique_urls": 6023,
+    "overlap": 21,
+    "high_signal": 1456,
+    "is_ai_total": 577
+  }
+}

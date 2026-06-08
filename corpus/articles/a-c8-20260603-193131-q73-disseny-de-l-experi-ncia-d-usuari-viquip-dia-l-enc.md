@@ -1,0 +1,20 @@
+# Disseny de l'experiència d'usuari - Viquipèdia, l'enciclopèdia lliure
+
+URL: https://ca.wikipedia.org/wiki/Disseny_de_l%27experi%C3%A8ncia_d%27usuari
+Source: ca.wikipedia.org
+Fetched: 20260603-193131
+Cycle: 8
+Quality: 0.74
+Language: en
+On-topic: yes
+Body: 3497 chars, ~512 words
+
+## Design signals
+- top_colors: —
+- fonts: Don Norman, Donald Norman, Interaction Design, Karen Holtzblatt, Matter, Norman Group, THE INTERACTION DESIGN, The Definition, The Interaction Design
+- designers_mentioned: —
+- gradients: 0
+
+## Body
+
+Disseny de l'experiència d'usuari - Viquipèdia, l'enciclopèdia lliure Vés al contingut De la Viquipèdia, l'enciclopèdia lliure Les àrees temàtiques del disseny de l'experiència d'usuari. El disseny de l'experiència d'usuari (UX design, UXD, UED o XD) és el procés de definir l'experiència per la qual passaria un usuari quan interactuaria amb una empresa, els seus serveis i els seus productes.[1] Les decisions de disseny en el disseny d'UX sovint es basen en la investigació, l'anàlisi de dades i els resultats de les proves en lloc de les preferències i opinions estètiques. A diferència del disseny de la interfície d'usuari, que se centra únicament en el disseny d'una interfície d'ordinador, el disseny d'UX engloba tots els aspectes de l'experiència percebuda d'un usuari amb un producte o lloc web, com ara la seva usabilitat, utilitat, conveniència, percepció de marca i rendiment general. El disseny UX també és un element de l'experiència del client (CX), que engloba tots els aspectes i etapes de l'experiència d'un client i la interacció amb una empresa. El camp del disseny de l'experiència d'usuari és una disciplina de disseny conceptual i té les seves arrels en els factors humans i l'ergonomia, un camp que, des de finals dels anys quaranta, s'ha centrat en la interacció entre usuaris humans, màquines i entorns contextuals per dissenyar sistemes que aborden l'experiència de l'usuari.[2][3] Amb la proliferació d'ordinadors de treball a principis dels anys noranta, l'experiència de l'usuari va començar a convertir-se en una visió positiva per als dissenyadors. Donald Norman, professor i investigador en disseny, usabilitat i ciències cognitives, va encunyar el terme "experiència d'usuari" i el va portar a un públic més ampli.[4] Hi ha un debat a la comunitat de disseny d'experiència sobre el seu enfocament, provocat en part per l'estudiós i practicant del disseny, Don Norman. Norman afirma que quan els dissenyadors descriuen les persones només com a clients, consumidors i usuaris, els dissenyadors corren el risc de disminuir la seva capacitat per fer un bon disseny.[5] El disseny de l'experiència d'usuari es basa en enfocaments de disseny com la interacció home-ordinador i el disseny centrat en l'usuari, i inclou elements de disciplines similars com el disseny d'interacció, el disseny visual, l'arquitectura de la informació, la recerca d'Usuaris i altres. La segona part de la investigació és entendre l'usuari final i el propòsit de l'aplicació. Tot i que això pot semblar clar per al dissenyador, fer un pas enrere i empatitzar amb l'usuari donarà els millors resultats. Referències[modifica] ↑ Norman, Don. «The Definition of User Experience (UX)» (en anglès). Neilsen-Norman Group. ↑ «Design in motion» (en anglès). IBM Design. [Consulta: 18 juny 2015]. ↑ environmental context "THE INTERACTION DESIGN FOUNDATION", by Karen Holtzblatt and Hugh R., Retrieved 2016-08-26 ↑ Kujala, Sari; Roto, Virpi; Väänänen-Vainio-Mattila, Kaisa; Karapanos, Evangelos; Sinneläa, Arto Interacting with Computers, 23, 5, 2011, p. 473–483. DOI: 10.1016/j.intcom.2011.06.005 [Consulta: free]. ↑ «Words Matter. Talk About People: Customers, Consumers,Users» (en anglès). Don Norman's jnd website. [Consulta: 3 octubre 2008].[Enllaç no actiu] Obtingut de «https://ca.wikipedia.org/w/index.php?title=Disseny_de_l%27experiència_d%27usuari&oldid=35904663» Categoria: Disseny Categoria oculta: Articles amb enllaços externs no actius Disseny de l'experiència d'usuari Afegeix un tema

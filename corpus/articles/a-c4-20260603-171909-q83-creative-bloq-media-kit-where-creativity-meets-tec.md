@@ -1,0 +1,20 @@
+# Creative Bloq Media Kit — Where Creativity Meets Technology
+
+URL: https://go.future-advertising.com/Creative-Bloq-Media-Kit.html
+Source: go.future-advertising.com
+Fetched: 20260603-171909
+Cycle: 4
+Quality: 0.84
+Language: en
+On-topic: yes
+Body: 3521 chars, ~548 words
+
+## Design signals
+- top_colors: —
+- fonts: Check Out, Learn More, The Independent, The World
+- designers_mentioned: —
+- gradients: 0
+
+## Body
+
+Creative Bloq Media Kit — Where Creativity Meets Technology As the world’s leading website for all things design, every day Creative Bloq delivers expert content to help designers solve their problems, as well as providing inspiration, opinion and creative technology news and reviews. Future Gaming Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor. Right-aligned content with image Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor. First list item Second list item with a longer description Third list item to close it out Learn More The Leading Technology Reviews Site We rigorously test hundreds of products in our labs and provide the independent reviews, helpful tips, and deals to help you upgrade your digital life and make better buying decisions. Tom's Guide is the brand in-market consumers find first via its In-depth reviews — through tried and tested product synopsis Buying advice via our much-loved ‘Buyers guides’ Easy-to-follow ‘How To’ guides SEO Expertise How to work with us: Future Publishing offers advertisers innovative products to make it easy to connect brands with our high-intent audiences. We offer highly customized solutions based on your needs, ensuring we capture users during their entire journey, from initial awareness to purchase. With our own in-house creative team, we are uniquely positioned to offer expert consultancy and design, and with the power of our proprietary tech, we provide the best targetable solutions. Only with Future can your advertising be placed in a quality, contextually relevant and brand-safe environment. Ready to learn more? Please fill out the following form to download our media kit. Creative Bloq's Audience Reach 3.1M Global average monthly users 4.5M Global average monthly pageviews 1.3M Global average monthly video views 819K Social Followers This is a Title for the Stats Section XXXm Lorem ipsum dolor sit amet difut. XXXm Lorem ipsum dolor sit amet difut. XXXm Lorem ipsum dolor sit amet difut. XXXm Lorem ipsum dolor sit amet difut. XXXm Lorem ipsum dolor sit amet difut. XXXm Lorem ipsum dolor sit amet difut. XXXm Lorem ipsum dolor sit amet difut. XXXm Lorem ipsum dolor sit amet difut. 3 Featured Speakers Name Lastname Title/position Name Lastname Title/position Name Lastname Title/position 2 Featured Speakers Name Lastname Title/position Name Lastname Title/position 1 Featured Speaker Name Lastname Title/position Creative Bloq is part of Future, the global leader in specialist media. Home to over 200+ brands including... Future 8 Brands Section Title Future 6 Brands Section Title Future 4 Brands Section Title Check Out More From Future Another longer title belongs here Another longer title belongs here Another longer title belongs here For all Future Licensing opportunities, please reach out to [email protected] and someone will be in contact with you shortly.

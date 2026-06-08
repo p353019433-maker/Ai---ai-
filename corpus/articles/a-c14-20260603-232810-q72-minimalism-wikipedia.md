@@ -1,0 +1,20 @@
+# Minimalism – Wikipedia
+
+URL: https://sv.wikipedia.org/wiki/Minimalism
+Source: sv.wikipedia.org
+Fetched: 20260603-232810
+Cycle: 14
+Quality: 0.72
+Language: en
+On-topic: yes
+Body: 3232 chars, ~449 words
+
+## Design signals
+- top_colors: —
+- fonts: Adams Philip Glass, Agnes Martin, Barnett Newman, Blaue Reiter, Carl Andre, Dan Flavin, Der Blaue Reiter, Donald Judd, Donald Judd Sol, Ellsworth Kelly, Frank Stella, Glass Steve Reich, John Adams, John Cage, Judd Sol LeWitt, Michael Nyman, Michael Nyman John, Monte Young, Monte Young Morton, Morris Richard Serra, Philip Glass, Primary Structures, Raymond Carver, Reinhardt Robert Smithson, Richard Serra, Robert Bresson, Robert Morris, Robert Smithson, Samuel Beckett, Sol LeWitt, Sol Lewitt, Steve Reich, Terry Riley, Wikipedia Den, Wikipedia Hoppa, Yves Klein
+- designers_mentioned: Bauhaus
+- gradients: 0
+
+## Body
+
+Minimalism – Wikipedia Hoppa till innehållet Från Wikipedia Den här artikeln behöver fler eller bättre källhänvisningar för att kunna verifieras. (2017-10) Åtgärda genom att lägga till pålitliga källor (gärna som fotnoter). Uppgifter utan källhänvisning kan ifrågasättas och tas bort utan att det behöver diskuteras på diskussionssidan. IKB 191 Yves Klein, 1962 Minimalistisk villa i Amsterdam, 2008. Minimalism är en konstriktning inom bland annat bildkonst, arkitektur och musik som avser producera konstverk som är befriade från konstnärens subjektiva uttryck och använder sig av så begränsade uttrycksmedel som möjligt. Tidiga synonyma begrepp, innan termen minimalism etablerats, var Primary Structures (efter utställningen med samma namn) eller ABC-konst.[1] Termen minimalism används ibland bredare inom teater om pjäser av till exempel Samuel Beckett, film av till exempel Robert Bresson och litteratur om verk av till exempel Raymond Carver. Typiska för minimalistisk skulptur är moduler, rymdobjekt, rutsystem och sammansatta konstruktioner, vilka försöker omdefiniera vår uppfattning om rummet, formen och skalan; begrepp som uttrycksfullhet och illusion går stick i stäv med de minimalistiska principerna. Ledande utövare, som även ofta har skrivit om minimalistisk konst, är Carl Andre, Dan Flavin, Donald Judd och Robert Morris. Man använder sig av en rationellt utvecklad matematisk metod för att komponera sina verk, vilka består av enkla arrangemang av identiska och utbytbara enheter, ofta modulära, eller geometriska system och upprepningar, vilka kan byggas på eller dras ut i all oändlighet. Urval bildkonstnärer[redigera | redigera wikitext] Carl Andre Dan Flavin Donald Judd Sol LeWitt Robert Morris Richard Serra Frank Stella Helmut Federle Judy Chicago Konstnärer som ibland kallas minimalister: Peter Halley Faye HeavyShield Eva Hesse Ellsworth Kelly Agnes Martin Barnett Newman Ad Reinhardt Robert Smithson Keith Sonnier Urval kompositörer[redigera | redigera wikitext] Michael Nyman John Cage John Adams Philip Glass Steve Reich Terry Riley La Monte Young Morton Feldman Tom Johnson Alvin Lucier Arvo Pärt Richie Hawtin Rhys Chatham Matthew Cooper Anders Hillborg Noter[redigera | redigera wikitext] ↑ Kristoffer Arvidsson (2009) , Skiascope, Göteborgs konstmuseum, nr.2, sid:28 v • rEuropas konsthistoriaStrömningar Medeltidens konst · Renässansens konst · Manierism · Barocken · Rokoko · Nyklassicism · Romantiken · Realismen · Prerafaeliterna · Akademisk konst · Impressionism · Postimpressionism1900-talet Modernism · Kubism · Expressionism · Abstrakt expressionism · Abstrakt konst · Neue Künstlervereinigung München · Der Blaue Reiter · Brücke · Dadaism · Fauvism · Jugend · Bauhaus · De Stijl · Art déco · Popkonst · Futurism · Suprematism · Surrealism · Minimalism · Postmodernism · Konceptkonst2000-talet Hyperrealism · Stuckism · Superflat · Relationell estetik · Videokonst · Digital konst Hämtad från ”https://sv.wikipedia.org/w/index.php?title=Minimalism&oldid=49900564” Kategorier: Klassisk musik Konstens historia Abstrakt konst Modernism Dolda kategorier: Artiklar som behöver fler källor 2017-10 Alla artiklar som behöver fler källor Alla artiklar som behöver källor Minimalism Nytt ämne

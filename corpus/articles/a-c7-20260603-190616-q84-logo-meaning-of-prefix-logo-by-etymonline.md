@@ -1,0 +1,20 @@
+# logo- | Meaning of prefix logo- by etymonline
+
+URL: https://web.archive.org/web/20221213022604/https://www.etymonline.com/word/logo-?ref=etymonline_crossreference
+Source: web.archive.org
+Fetched: 20260603-190616
+Cycle: 7
+Quality: 0.85
+Language: en
+On-topic: yes
+Body: 3562 chars, ~445 words
+
+## Design signals
+- top_colors: —
+- fonts: APA Style, About This, Douglas Harper, Etymology Dictionary, Privacy Policy, Wayback Machine
+- designers_mentioned: Notion
+- gradients: 0
+
+## Body
+
+logo- | Meaning of prefix logo- by etymonline 18 captures 01 May 2019 - 30 Dec 2025 Nov DEC Jan 13 2021 2022 2023 success fail About this capture COLLECTED BY Collection: Wikipedia Eventstream TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20221213022604/https://www.etymonline.com/word/logo-?ref=etymonline_crossreference Advertisement logo- before vowels log-, word-forming element meaning "speech, word," also "reason," from Greek logos "word, discourse; reason," from PIE root *leg- (1) "to collect, gather," with derivatives meaning "to speak (to 'pick out words')." Entries linking to logo- *leg- (1) Proto-Indo-European root meaning "to collect, gather," with derivatives meaning "to speak" on the notion of "to gather words, to pick out words." It forms all or part of: alexia; analects; analogous; analogue; analogy; anthology; apologetic; apologue; apology; catalogue; coil; colleague; collect; college; collegial; Decalogue; delegate; dialect; dialogue; diligence; doxology; dyslexia; eclectic; eclogue; elect; election; epilogue; hapax legomenon; homologous; horology; ideologue; idiolect; intelligence; lectern; lectio difficilior; lection; lector; lecture; leech (n.2) "physician;" legacy; legal; legate; legend; legible; legion; legislator; legitimate; lesson; lexicon; ligneous; ligni-; logarithm; logic; logistic; logo-; logogriph; logopoeia; Logos; -logue; -logy; loyal; monologue; neglect; neologism; philology; privilege; prolegomenon; prologue; relegate; sacrilege; select; syllogism; tautology; trilogy. It is the hypothetical source of/evidence for its existence is provided by: Greek legein "to say, tell, speak, declare; to count," originally, in Homer, "to pick out, select, collect, enumerate;" lexis "speech, diction;" logos "word, speech, thought, account;" Latin legere "to gather, choose, pluck; read," lignum "wood, firewood," literally "that which is gathered," legare "to depute, commission, charge," lex "law" (perhaps "collection of rules"); Albanian mb-ledh "to collect, harvest;" Gothic lisan "to collect, harvest," Lithuanian lesti "to pick, eat picking;" Hittite less-zi "to pick, gather." logocentric (adj.) "centered on reason," 1931, from logo- "reason" + -centric. logocracy logogram logograph logolatry logomachy logomaniac logophobia logorrhea See all related words (10) > Share logo- ‘cite’ Page URL: https://www.etymonline.com/word/logo- HTML Link: <a href="https://www.etymonline.com/word/logo-">Etymology of logo- by etymonline</a> APA style: Harper, D. (n.d.). Etymology of logo-. Online Etymology Dictionary. Retrieved $(datetime), from https://www.etymonline.com/word/logo- Chicago style: Harper Douglas, “Etymology of logo-,” Online Etymology Dictionary, accessed $(datetime), https://www.etymonline.com/word/logo-. MLA style: Harper, Douglas. “Etymology of logo-.” Online Etymology Dictionary, https://www.etymonline.com/word/logo-. Accessed $(datetimeMla). IEEE style: D. Harper. “Etymology of logo-.” Online Etymology Dictionary. https://www.etymonline.com/word/logo- (accessed $(datetime)). updated on April 19, 2017 Advertisement Advertisement Dictionary entries near logo- login logistic logistics log-jam logo logo- logocentric logocracy logogram logograph logogriph A B C D E F G H I J K L M N O P Q R S T U V W X Y Z linksHomepageFull List of SourcesLinks productsiOS AppAndroid AppChrome Extension aboutWho Did ThisIntroduction and ExplanationFollow on Facebook supportDonate with PayPalYe Olde Swag ShoppeSupport on Patreon Terms of Service | Privacy Policy© 2001-2022 Douglas Harper

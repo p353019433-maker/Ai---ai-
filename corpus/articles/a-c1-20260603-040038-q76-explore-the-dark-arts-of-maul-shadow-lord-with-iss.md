@@ -1,0 +1,18 @@
+# Explore the dark arts of Maul: Shadow Lord with issue 267 of ImagineFX | Creative Bloq
+
+URL: https://www.creativebloq.com/professional-development/artistic-tips-techniques/explore-the-dark-arts-of-maul-shadow-lord-with-issue-267-of-imaginefx
+Source: www.creativebloq.com
+Fetched: 20260603-040038
+Cycle: 1
+Quality: 0.77
+Body: 3255 chars, ~535 words
+
+## Design signals
+- top_colors: —
+- fonts: —
+- designers_mentioned: —
+- gradients: 0
+
+## Body
+
+Explore the dark arts of Maul: Shadow Lord with issue 267 of ImagineFX | Creative Bloq Skip to main content Get the Creative Bloq Newsletter Sign up to Creative Bloq's daily newsletter, which brings you the latest news and inspiration from the worlds of art, design and technology. By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over. You are now subscribed Your newsletter sign-up was successful Want to add more newsletters? An account already exists for this email address, please log in. Explore Lucasfilm's dark arts with issue 267 of ImagineFX magazine. (Image credit: Future) Facebook X Whatsapp Pinterest Flipboard Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Subscribe to our newsletter In this month's ImagineFX we talk to Lucasfilm about the stunning new Maul: Shadow Lord show, as well as show you how to level up your own art with tutorials, sketchbooks and more. Read on below to see all the major articles waiting for you this month. Get yours now! To bag your copy head over to Magazines Direct, where you can pick up a single issue, save some money on a subscription, and fill in the blanks in your collection with the latest back issues. Latest Videos From Watch full video here: And don't forget, if you buy a print subscription you get access to over 150 issues of our digital back catalogue too! Inside the latest ImagineFX Explore a sketchbook filled by the wonderful creature and character art of Ognjen Sporin. (Image credit: Future) uild your skills and learn how to create quirky sci-fi scenes from real-world settings. (Image credit: Future) Discover key techniques to make your backgrounds tell as much of the story as your characters, with advice from our panel of background artists. (Image credit: Future) Learn how to craft epic cityscapes, with thoughtfully design architectural features, in our in-depth tutorial from Kan Rongueangkul. (Image credit: Future) We talked to Lucasfilm abou thte visual design of the new Maul: Shadowlord series, to find out some of their secrets. It's a fascinating insight into how such an iconic villain can stay instantly recognisable but with a distinctive new style. (Image credit: Future) We hope you enjoy the issue! Get the Creative Bloq Newsletter Sign up to Creative Bloq's daily newsletter, which brings you the latest news and inspiration from the worlds of art, design and technology. Rob Redman Editor, ImagineFX Rob Redman is the editor of ImagineFX magazines and former editor of 3D World magazine. Rob has a background in animation, visual effects, and photography. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name. LATEST ARTICLES 1 The affordable Edifier T5s subwoofer puts quality above noise 2 Toy Story 5 drops soon – I've handpicked essential collectibles from $19.99 (including Lego!) 3 We got a bizarre Grand Theft Auto-inspired animated movie before GTA VI 4 Necrophosis: Full Consciousness review – unsettling art direction elevates shallow puzzles 5 Celebrate Dinosaur Day with these roarsome Lego sets! Please login or signup to comment Please wait...
