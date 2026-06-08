@@ -21,6 +21,7 @@ Principle: **do not delete or rewrite original source files just because they we
 | 022 | 1188-1287 | mixed | Corporate Memphis, Pentagram institution, Rand, Spiekermann/type ecosystem, Scher, Vignelli, Web Style Guide, de Bretteville, digital brutalism, DesignOps, environmental graphics. |
 | 023 | 1288-1350 | mixed | Arts & Crafts, Art Deco, global brutalism, Web 2.0, minimalism/maximalism, flat/neumorphism, color dimensions. |
 | 024 | 1351-1456 | mixed | InfoDesign curation, interaction design, personas, UX competencies, usability, technical communication, Material You, London Transport, AIGA, type infrastructure. |
+| 025 | gap audit | provenance closure | Marks remaining missing-source ranges 275-706, 725-839, 899-901, and 947-951; no title-only hallucinated notes. |
 
 ## Repeated Source Handling
 
@@ -40,13 +41,15 @@ Common statuses in `processed-manifest.csv`:
 
 Known old-path missing clusters:
 
+- batch-025: priorities 275-706, 725-839, 899-901, 947-951 — audited and marked `missing_source` in manifest
+
 - batch-015: priorities 251-274
 - batch-019: 903-908, 916-918, 920-921, 923-927, 932-934, 938-941
 - batch-021: 985-995, 1013, 1017-1018, 1020-1028
 - batch-022: 1188-1202, 1262-1263, 1267, 1270, 1281, 1285-1287
 - batch-024: 1415, 1448
 
-These mostly point to `/tmp/design-study/auto-v5/...` and should not be reconstructed from memory or titles. If needed, refetch/recover them later.
+These mostly point to `/tmp/design-study/auto-v5/...` and should not be reconstructed from memory or titles. Batch-025 closes the remaining gaps as provenance, not learning volume. If needed, refetch/recover them later.
 
 ## Core Operating Lessons So Far
 
