@@ -90,6 +90,30 @@
 - [GitHub 设计项目漫游](github-design-aesthetics.md) — 设计系统/字体/创意编码/终端/AI 时代 design
 - [自主学习一晚方法论](method-autonomous-overnight-learning.md) — 脚本当主角·agent 写脚本睡醒读结果
 
+### 14. 824 篇真精华深读综合（2026-06-07 共 15 份）
+- [Emigre 综合](design-emigre-synthesis.md) — 9 篇 v5 深读·foundry+杂志 1990s 范本
+- [Pentagram 综合](design-pentagram-synthesis.md) — 18 篇 v5+v6 深读·50 年 designer-owned 模式
+- [Pentagram Extended](design-pentagram-extended-synthesis.md) — 12+ 合伙人扩展·10 个新项目
+- [Paula Scher 综合](design-paula-scher-synthesis.md) — 28 篇·maximalist + 30 年长约
+- [2026 字体生态综合](design-typefaces-2026-synthesis.md) — 38 篇·6 foundries + 8 字体 + 5 主题
+- [Vitra / Eames / 现代主义综合](design-vitra-eames-synthesis.md) — 30+ 篇·10 位大师 + Vitra 馆
+- [Kauffer / Pick / 海报系统综合](design-kauffer-poster-synthesis.md) — 11 篇·pre-digital 设计系统原型
+- [Apple / Aalto / 平面史综合](design-apple-aalto-history-synthesis.md) — 30+ 篇·Apple 2025-26 + Aalto
+- [French / Type / 可持续综合](design-french-type-research-synthesis.md) — 59 篇·Nouvelle étiquette + 可持续
+- [Japan / Azumi 综合](design-japan-azumi-synthesis.md) — 13 篇·"subtle behaviour" 哲学
+- [Pugh / Wilson / Olympic 综合](design-pugh-wilson-synthesis.md) — 10+ 篇·跨学科教学 + Aicher 1972
+- [Modern Designers 综合](design-modern-designers-synthesis.md) — 51 篇·Jacobsen/Prouvé/Fuller/Grcic/Crasset/Bengtsson/M+M
+- [Web / UX / Tech 2024-26 综合](design-web-ux-tech-synthesis.md) — 10 篇·CSS 复兴 + AI + 游戏 + TUI
+- [设计师 + Wikipedia 综合](design-designers-wikipedia-synthesis.md) — 16 篇·Pentagram 周边 6 + 杂志/历史 8
+- [字体/平台/方法论 II 综合](design-type-platform-synthesis.md) — 8 篇·Solarized + Areal + JAF + MDes Basel
+- [Uncategorized 362 篇 Who's Who](design-uncategorized-synthesis.md) — 20+ 子学科索引
+- [Final 27 篇收工](design-final-remaining-synthesis.md) — 12 独立工作室 + 5 Wikipedia + 3 Shades of X + 7 gaps
+- [5 份 Pre-Digest Notes 综合](design-notes-pre-digest-synthesis.md) — Müller-Brockmann/Vignelli/字体公司/Pentagram IEEE/2026 博客/shadcn 源码
+- [824 篇深读计划索引](design-corpus-deep-digest.md) — 哪些读了/哪些待读/怎么读·K=30 cluster 表
+
+### 13. 行为偏好
+- [能跑就别动](feedback-dont-break-working-setup.md) — 能用就别清理，整理旧凭证/死引用要先问、用户喊停就彻底停
+
 ---
 **最终统计（2026-06-06 Handover）**：62 份文件 = 45 design-* + 13 design-philosophy-* + 1 HANDOVER.md + 1 MEMORY.md + 2 辅助；约 852 KB；8 轮研究 + 3 轮整理 + 3 轮补盲
 **盲点进度**：原 9 个盲点全部填补（详见 [HANDOVER.md](HANDOVER.md)）

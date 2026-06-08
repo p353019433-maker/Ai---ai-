@@ -102,3 +102,28 @@
 ### 9. 方法论
 
 - [`method-autonomous-overnight-learning.md`](method-autonomous-overnight-learning.md)：自主学习一晚的方法论，说明如何让脚本负责采集，让 agent 负责读结果。
+
+### 10. 深读综合（从 memory 系统同步）
+
+这一组来自 `/Users/nothingfear/.claude/projects/-Users-nothingfear/memory/` 的持久化学习成果，是旧 `/tmp/design-study/digest/` 中间产物被清理后留下的可用总结层。它们不是原始语料，而是主题化深读综合。
+
+- [`design-corpus-deep-digest.md`](design-corpus-deep-digest.md)：corpus 深读总摘要。
+- [`design-notes-pre-digest-synthesis.md`](design-notes-pre-digest-synthesis.md)：digest 前置笔记综合。
+- [`design-pentagram-synthesis.md`](design-pentagram-synthesis.md)：Pentagram 主题综合。
+- [`design-pentagram-extended-synthesis.md`](design-pentagram-extended-synthesis.md)：Pentagram 扩展综合。
+- [`design-paula-scher-synthesis.md`](design-paula-scher-synthesis.md)：Paula Scher 综合。
+- [`design-emigre-synthesis.md`](design-emigre-synthesis.md)：Emigre / 字体与编辑文化综合。
+- [`design-type-platform-synthesis.md`](design-type-platform-synthesis.md)：字体平台与生产生态综合。
+- [`design-typefaces-2026-synthesis.md`](design-typefaces-2026-synthesis.md)：2026 字体资料综合。
+- [`design-web-ux-tech-synthesis.md`](design-web-ux-tech-synthesis.md)：Web / UX / 技术综合。
+- [`design-apple-aalto-history-synthesis.md`](design-apple-aalto-history-synthesis.md)：Apple / Aalto / 设计史综合。
+- [`design-vitra-eames-synthesis.md`](design-vitra-eames-synthesis.md)：Vitra / Eames 综合。
+- [`design-japan-azumi-synthesis.md`](design-japan-azumi-synthesis.md)：日本设计 / Azumi 综合。
+- [`design-kauffer-poster-synthesis.md`](design-kauffer-poster-synthesis.md)：Kauffer / poster 综合。
+- [`design-french-type-research-synthesis.md`](design-french-type-research-synthesis.md)：法国字体研究综合。
+- [`design-designers-wikipedia-synthesis.md`](design-designers-wikipedia-synthesis.md)：设计师 Wikipedia 资料综合。
+- [`design-modern-designers-synthesis.md`](design-modern-designers-synthesis.md)：现代设计师综合。
+- [`design-pugh-wilson-synthesis.md`](design-pugh-wilson-synthesis.md)：Pugh / Wilson 综合。
+- [`design-final-remaining-synthesis.md`](design-final-remaining-synthesis.md)：最终剩余材料综合。
+- [`design-uncategorized-synthesis.md`](design-uncategorized-synthesis.md)：未分类材料综合。
+
