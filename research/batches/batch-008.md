@@ -2,7 +2,7 @@
 
 Source: priorities 63-74 from `corpus-metadata/reading-priority-list.csv`.
 
-Status: mixed deep read / long-source triage. Original article files are kept.
+Status: mixed deep read / long-source triage. Original article files have since been removed after distillation; see ../../corpus/README.md.
 
 ## Batch Triage
 

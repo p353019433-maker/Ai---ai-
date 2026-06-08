@@ -2,7 +2,7 @@
 
 Source: priorities 21-25 from `corpus-metadata/reading-priority-list.csv`.
 
-Status: deep read and distilled. Original article files are kept.
+Status: deep read and distilled. Original article files have since been removed after distillation; see ../../corpus/README.md.
 
 ## Batch Thesis
 

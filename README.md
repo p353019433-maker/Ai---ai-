@@ -27,10 +27,11 @@ corpus/   原始文章正文证据库
 - [`research/batches/`](research/batches/)
 - [`research/corpus-metadata/reading-priority-list.csv`](research/corpus-metadata/reading-priority-list.csv)
 
-如果你要追溯原文证据：
+如果你要追溯原文证据（原始正文已蒸馏后删除，见下）：
 
-- [`corpus/README.md`](corpus/README.md)
-- [`corpus/articles/`](corpus/articles/)
+- [`corpus/README.md`](corpus/README.md) — 说明正文为何删除、证据现在去哪找
+- [`research/batches/`](research/batches/) — 读完高信号文章后的蒸馏笔记
+- [`research/corpus-metadata/reading-priority-list.csv`](research/corpus-metadata/reading-priority-list.csv) — 文章清单与来源 URL
 
 ## 当前诚实标签
 
@@ -45,8 +46,8 @@ corpus/   原始文章正文证据库
 - `claude-design-memory/` → `docs/`
 - `learning-notes/` → `docs/` + `research/batches/` + `research/processed-manifest.csv`
 - `overnight-ai-aesthetic/aggregate/` → `research/corpus-metadata/`
-- `overnight-ai-aesthetic/out/a-*.md` → `corpus/articles/`
+- `overnight-ai-aesthetic/out/a-*.md` → 蒸馏进 `research/batches/` 后删除（2266 篇原始正文不再保留）
 - `overnight-ai-aesthetic/out/SYNTHESIS.md` → `research/corpus-synthesis.md`
 - `overnight-ai-aesthetic/out/IMPROVEMENTS.md` → `research/corpus-improvements.md`
 
-内容没有语义删除，只是把复杂结构压平。
+知识与综合内容没有语义删除，只是把复杂结构压平；原始文章正文则在蒸馏成批次笔记后整体移除，元数据 CSV 的 `path` 列已相应清空。

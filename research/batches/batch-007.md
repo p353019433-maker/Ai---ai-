@@ -2,7 +2,7 @@
 
 Source: priorities 51-62 from `corpus-metadata/reading-priority-list.csv`.
 
-Status: mixed deep read / index read. Original article files are kept.
+Status: mixed deep read / index read. Original article files have since been removed after distillation; see ../../corpus/README.md.
 
 ## Batch Triage
 
