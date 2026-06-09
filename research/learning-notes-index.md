@@ -33,6 +33,18 @@ Current structure:
 | 023 | 1288-1350 | mixed | Arts & Crafts, Art Deco, brutalist heritage, Web 2.0, minimalism/maximalism, flat/neumorphism. |
 | 024 | 1351-1456 | mixed | InfoDesign curation, interaction/UX competencies, usability, Material You, London Transport, type infrastructure. |
 | 025 | gap audit | provenance closure | Marks remaining missing-source ranges 275-706, 725-839, 899-901, and 947-951. |
+| 026 | recovered missing sources | partial recovery | Recovered high-signal missing URLs: Alexander, visual hierarchy, Pentagram, Antonelli, Rams/Ive, architecture biographies, generative/web design, game art, UI buttons, type infrastructure. |
+| 027 | recovered missing sources II | partial recovery | British systems, modernist interiors, postmodern objects, open Unicode typography, digital/web craft, and brand architecture. |
+| 028 | recovered missing sources III | partial recovery | Interior architecture, British modernity, social/humanitarian design, game worlds, craft-material experiments, and reuse narratives. |
+| 029 | recovered missing sources IV | partial recovery | British modernism, transport information systems, type for screens, digital/web pioneers, and geometric product language. |
+| 030 | recovered missing sources V | partial recovery | Duplicate closure plus Breuer, Tom Dixon, Marc Newson, Philip Worthington, MARS Group, and Design Mart period evidence. |
+| 031 | recovered missing sources VI | duplicate closure | Additional alternate Design Museum captures for already-synthesized British modernism, maker culture, interaction, and product design topics. |
+| 032 | recovered missing sources VII | archive sweep | Design Museum archive sweep: Campana, Morrison, Conran, Abram Games, Birdsall, Bouroullec, Jongerius, Price, Berners-Lee, DejaVu fonts. |
+| 033 | recovered missing sources VIII | archive sweep | Broad Design Museum sweep: social/service design, product/material infrastructure, graphic systems, fashion/persona, architecture as enabling system. |
+| 034 | recovered missing sources IX | large sweep | Large closure sweep: brand/sustainability/UI definitions, type/color infrastructure, symbols, wayfinding, architecture/planning, product/material/fashion, digital culture. |
+| 035 | recovered missing sources X | reference sweep | Duplicate closure, design reference rows, and color-chart infrastructure; notes that remaining yield is mostly low-value metadata/reference material. |
+| 036 | recovered missing sources XI | final unique sweep | Final unique high-value sweep: branding, magazines, symbols, overengineering, type/UI primitives, architecture/fashion/spatial design, information design. |
+| 037 | missing source final closure | closure | Classifies remaining rows as duplicate_of_recovered, low_value_color_reference, metadata_or_edit_page, or unresolved_fetch_failed. |
 
 ## Status Meanings
 
@@ -48,7 +60,9 @@ Current structure:
 
 Known old-path missing clusters:
 
-- batch-025: priorities 275-706, 725-839, 899-901, 947-951 — audited and marked `missing_source` in manifest.
+- batch-026 through batch-036 recovered selected high-signal rows from the old missing clusters and mark them `recovered_read` in the manifest.
+- batch-037 closes remaining non-read rows as duplicate/reference/metadata/fetch-failed categories, leaving zero `missing_source` rows.
+- batch-025: priorities 275-706, 725-839, 899-901, 947-951 — audited and marked `missing_source` in manifest, except rows later recovered in batch-026.
 - batch-015: priorities 251-274.
 - batch-019: 903-908, 916-918, 920-921, 923-927, 932-934, 938-941.
 - batch-021: 985-995, 1013, 1017-1018, 1020-1028.
