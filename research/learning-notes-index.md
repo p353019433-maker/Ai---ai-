@@ -45,6 +45,7 @@ Current structure:
 | 035 | recovered missing sources X | reference sweep | Duplicate closure, design reference rows, and color-chart infrastructure; notes that remaining yield is mostly low-value metadata/reference material. |
 | 036 | recovered missing sources XI | final unique sweep | Final unique high-value sweep: branding, magazines, symbols, overengineering, type/UI primitives, architecture/fashion/spatial design, information design. |
 | 037 | missing source final closure | closure | Classifies remaining rows as duplicate_of_recovered, low_value_color_reference, metadata_or_edit_page, or unresolved_fetch_failed. |
+| 038 | AI anti-design strategies | deep_read | Synthesized 34k words from 6 parallel subagents: AI visual tells (purple gradient, Cardocalyps, glassmorphism), semantic token systems, Alexander pattern language, typography/color/spacing hierarchy, code-level lint/aesthetic CI, historical design movements, and micro-details checklist. |
 
 ## Status Meanings
 
