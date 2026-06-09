@@ -1,6 +1,6 @@
 ## 设计知识库索引（2026-06-06 整理后·Handover 版）
 
-> **本目录是 Handover 用的设计知识库。** 62 份文件，约 850 KB，0 字节脚本/日志。
+> **本目录是可直接使用的设计知识层。** 当前统计以 [HANDOVER.md](HANDOVER.md) 和 `scripts/check-docs.py` 为准。
 > 完整说明见 [HANDOVER.md](HANDOVER.md)。
 
 ### 0. 元索引 & 总纲（3 份）
@@ -112,8 +112,8 @@
 - [824 篇深读计划索引](design-corpus-deep-digest.md) — 哪些读了/哪些待读/怎么读·K=30 cluster 表
 
 ### 13. 行为偏好
-- [能跑就别动](feedback-dont-break-working-setup.md) — 能用就别清理，整理旧凭证/死引用要先问、用户喊停就彻底停
+- 能跑就别动 — 历史行为偏好：能用就别清理；整理旧凭证或死引用要先确认语义，不要为了“干净”破坏可用状态。
 
 ---
-**最终统计（2026-06-06 Handover）**：62 份文件 = 45 design-* + 13 design-philosophy-* + 1 HANDOVER.md + 1 MEMORY.md + 2 辅助；约 852 KB；8 轮研究 + 3 轮整理 + 3 轮补盲
+**当前统计**：以 [HANDOVER.md](HANDOVER.md) 的快照为准；运行 `python3 scripts/check-docs.py` 可检查链接和统计是否同步。
 **盲点进度**：原 9 个盲点全部填补（详见 [HANDOVER.md](HANDOVER.md)）

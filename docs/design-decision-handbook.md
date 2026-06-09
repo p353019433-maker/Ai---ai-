@@ -18,7 +18,7 @@ metadata:
 - [design-ultimate-handbook.md](design-ultimate-handbook.md) — 9 轮研究综合
 - [github-design-aesthetics.md](github-design-aesthetics.md) — GitHub 设计项目漫游
 - [method-autonomous-overnight-learning.md](method-autonomous-overnight-learning.md) — 一晚学习法
-- ~~design-ai-de-slop.md~~ → 2026-06-06 归档至 [archive/](archive/)，内容并入 [design-ai-prompt.md](design-ai-prompt.md)
+- ~~design-ai-de-slop.md~~ → 2026-06-06 清理时移除，内容并入 [design-ai-prompt.md](design-ai-prompt.md)
 
 ## 1. 53 份设计领域 memory 索引（按主题分 11 组）
 

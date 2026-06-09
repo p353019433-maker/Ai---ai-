@@ -16,7 +16,7 @@
 ## 完整索引
 
 - [`MEMORY.md`](MEMORY.md)：原 Claude design memory 索引。
-- [`HANDOVER.md`](HANDOVER.md)：旧 handover，解释这套知识库怎么使用。
+- [`HANDOVER.md`](HANDOVER.md)：当前 handover，解释这套知识库怎么使用和维护。
 
 ## 文件类型
 

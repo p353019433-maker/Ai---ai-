@@ -5,7 +5,7 @@
 ```text
 docs/      可直接阅读和使用的设计知识库
 research/ 研究过程、批次笔记、manifest、metadata、方法论日志
-corpus/   原始文章正文证据库
+corpus/   原始正文移除后的证据路由说明
 ```
 
 目标：去掉旧的多套目录名，把“成品 / 过程 / 原料”分清楚。
@@ -51,3 +51,11 @@ corpus/   原始文章正文证据库
 - `overnight-ai-aesthetic/out/IMPROVEMENTS.md` → `research/corpus-improvements.md`
 
 知识与综合内容没有语义删除，只是把复杂结构压平；原始文章正文则在蒸馏成批次笔记后整体移除，元数据 CSV 的 `path` 列已相应清空。
+
+## 维护检查
+
+```bash
+python3 scripts/check-docs.py
+```
+
+这个检查会验证 Markdown 本地链接、核心 handover 统计和旧路径引用。JSON metadata 仍保留 `body_head` / `body_tail` 片段用于审计上下文；它们不是完整正文库。

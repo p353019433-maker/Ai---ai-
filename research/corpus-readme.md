@@ -1,36 +1,30 @@
-# Overnight AI Aesthetic Corpus
+# Corpus Research Notes
 
-这是原始语料库目录。它保存了自动采集、评分、聚合后的设计美学 corpus，以及 2266 篇本地正文。
+这个文件是旧 corpus 说明的当前位置版本。原始文章正文已经在蒸馏成批次笔记和综合文档后删除，当前仓库保留的是 metadata、处理账本、批次笔记和综合结果。
 
-## 目录结构
+## 当前入口
 
-| 路径 | 作用 |
-|---|---|
-| [`HANDOFF.md`](HANDOFF.md) | 接手说明，解释 corpus 的来源、状态、坑和推荐使用路径 |
-| [`aggregate/`](aggregate/) | 聚合后的全量 metadata、阅读优先级、主题阅读清单 |
-| [`out/`](out/) | 本地正文、V2 阶段总结、方法论日志 |
-
-## 关键入口
-
-- [`aggregate/aggregate-summary.json`](aggregate/aggregate-summary.json)：总量统计。
-- [`aggregate/reading-priority-list.csv`](aggregate/reading-priority-list.csv)：高信号文章阅读优先级，按 tier、signal、body 排序。
-- [`aggregate/reading-by-topic.csv`](aggregate/reading-by-topic.csv)：按主题组织的阅读清单。
-- [`aggregate/all-articles-manifest.csv`](aggregate/all-articles-manifest.csv)：全量 metadata CSV。
-- [`aggregate/all-articles-unified.json`](aggregate/all-articles-unified.json)：全量 metadata JSON。
-- [`out/SYNTHESIS.md`](out/SYNTHESIS.md)：V2 阶段综合总结。
-- [`out/IMPROVEMENTS.md`](out/IMPROVEMENTS.md)：采集过程和方法论改进日志。
+- [`README.md`](README.md)：研究层总入口。
+- [`corpus-handoff.md`](corpus-handoff.md)：原 corpus 接手说明的迁移版本。
+- [`corpus-synthesis.md`](corpus-synthesis.md)：V2 阶段综合总结。
+- [`corpus-improvements.md`](corpus-improvements.md)：采集过程和方法论改进日志。
+- [`processed-manifest.csv`](processed-manifest.csv)：1456 条 priority 的处理账本。
+- [`corpus-metadata/aggregate-summary.json`](corpus-metadata/aggregate-summary.json)：总量统计。
+- [`corpus-metadata/reading-priority-list.csv`](corpus-metadata/reading-priority-list.csv)：高信号文章阅读优先级，按 tier、signal、body 排序。
+- [`corpus-metadata/reading-by-topic.csv`](corpus-metadata/reading-by-topic.csv)：按主题组织的阅读清单。
+- [`corpus-metadata/all-articles-manifest.csv`](corpus-metadata/all-articles-manifest.csv)：全量 metadata CSV。
+- [`corpus-metadata/all-articles-unified.json`](corpus-metadata/all-articles-unified.json)：全量 metadata JSON。
+- [`batches/`](batches/)：逐批学习笔记。
 
 ## 数据规模
 
 - 合并前记录：6044
 - 唯一 URL：6023
 - high-signal：1456
-- 本地正文：2266
+- 本地原始正文：已删除
 
-## 使用方式
+## 证据边界
 
-先读 [`HANDOFF.md`](HANDOFF.md)，再看 [`out/SYNTHESIS.md`](out/SYNTHESIS.md) 建立全景。
+如果要追溯来源，从 [`corpus-metadata/reading-priority-list.csv`](corpus-metadata/reading-priority-list.csv) 找 title、url、source，再看 [`batches/`](batches/) 和 [`processed-manifest.csv`](processed-manifest.csv) 中的处理状态。
 
-如果要精读文章，从 [`aggregate/reading-priority-list.csv`](aggregate/reading-priority-list.csv) 选目标，再打开其中 `path` 对应的 [`out/`](out/) 正文。
-
-这套 corpus 的状态是：采集已经足够，真正缺的是精读、消化、综合。
+重要细节：JSON metadata 仍保留 `body_head` / `body_tail` 片段，用于审计采集质量和来源上下文。它们不是完整正文库。
