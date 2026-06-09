@@ -70,6 +70,14 @@ def reject_text(path: Path, rejected: str, failures: list[str]) -> None:
         failures.append(f"{path.relative_to(ROOT)} contains stale text: {rejected}")
 
 
+def require_max_lines(path: Path, max_lines: int, failures: list[str]) -> None:
+    line_count = len(path.read_text(encoding="utf-8", errors="ignore").splitlines())
+    if line_count > max_lines:
+        failures.append(
+            f"{path.relative_to(ROOT)} has {line_count} lines; expected <= {max_lines}"
+        )
+
+
 def check_inventory(files: list[Path]) -> list[str]:
     failures: list[str] = []
     docs_count = len(list((ROOT / "docs").glob("*.md")))
@@ -89,20 +97,71 @@ def check_inventory(files: list[Path]) -> list[str]:
         ],
         ROOT / "docs" / "MEMORY.md": [
             "62 份文件",
+            "60 份设计 memory",
             "约 850 KB",
             "852 KB",
             "feedback-dont-break-working-setup.md",
+            "### 14. 824 篇",
+        ],
+        ROOT / "docs" / "design-decision-handbook.md": [
+            "68 份文件",
+            "53 份设计领域 memory",
+            "56 份设计相关",
+            "59 份",
+        ],
+        ROOT / "docs" / "design-ultimate-handbook.md": [
+            "百科全书",
+            "终极版",
+            "最终综合版",
+        ],
+        ROOT / "docs" / "design-philosophy-master.md": [
+            "最终手册",
+            "最终版",
+        ],
+        ROOT / "docs" / "design-corpus-deep-digest.md": [
+            "真精华",
+            "最终索引",
+            "收工版",
+            "MEMORY.md §14",
         ],
         ROOT / "research" / "corpus-readme.md": [
             "HANDOFF.md",
             "aggregate/",
             "out/",
         ],
+        ROOT / "research" / "corpus-handoff.md": [
+            "采集完成，消化未开始",
+            "正文 2,266 篇已下载本地",
+            "aggregate/",
+            "out/",
+            "a-*.md",
+            "/Users/nothingfear/corpus",
+        ],
     }
 
     for path, rejected_values in stale_checks.items():
         for rejected in rejected_values:
             reject_text(path, rejected, failures)
+
+    for path in [
+        ROOT / "corpus" / "README.md",
+        ROOT / "research" / "README.md",
+    ]:
+        require_text(path, "`body_head`", failures)
+        require_text(path, "`body_tail`", failures)
+        require_text(path, "not full article bodies", failures)
+
+    entry_docs = [
+        ROOT / "README.md",
+        ROOT / "docs" / "README.md",
+        ROOT / "docs" / "MEMORY.md",
+        ROOT / "docs" / "design-decision-handbook.md",
+    ]
+    for path in entry_docs:
+        for rejected in ["终极版", "最终版", "百科全书", "真精华", "Handover 版", "全部填补"]:
+            reject_text(path, rejected, failures)
+
+    require_max_lines(ROOT / "docs" / "design-decision-handbook.md", 180, failures)
 
     return failures
 

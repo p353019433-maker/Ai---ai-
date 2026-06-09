@@ -1,12 +1,12 @@
-## 设计知识库索引（2026-06-06 整理后·Handover 版）
+## 设计知识库索引
 
 > **本目录是可直接使用的设计知识层。** 当前统计以 [HANDOVER.md](HANDOVER.md) 和 `scripts/check-docs.py` 为准。
 > 完整说明见 [HANDOVER.md](HANDOVER.md)。
 
 ### 0. 元索引 & 总纲（3 份）
-- [设计决策总纲 v6](design-decision-handbook.md) — 60 份设计 memory 元索引 + 决策树 + 8 元原则 + 13 步检查
-- [人类设计美学百科全书（终极版）](design-ultimate-handbook.md) — 9 轮研究综合·可直接套用
-- [设计师级去AI化设计哲学总纲（最终版）](design-philosophy-master.md) — 东方美学+西方现代主义融合的最终手册
+- [设计决策手册](design-decision-handbook.md) — 设计问题路由 + 元原则 + 检查清单
+- [设计美学手册](design-ultimate-handbook.md) — 9 轮研究综合
+- [设计哲学总纲](design-philosophy-master.md) — 东方美学+西方现代主义融合
 
 ### 1. AI 时代设计方法论（5 份）
 - [AI 提示词工程](design-ai-prompt.md) — 提示词三件套/5 种产品 brief/3 工具差异/20+ 提示词模板/10 条反 slop/迭代策略
@@ -90,7 +90,7 @@
 - [GitHub 设计项目漫游](github-design-aesthetics.md) — 设计系统/字体/创意编码/终端/AI 时代 design
 - [自主学习一晚方法论](method-autonomous-overnight-learning.md) — 脚本当主角·agent 写脚本睡醒读结果
 
-### 14. 824 篇真精华深读综合（2026-06-07 共 15 份）
+### 13. 深读综合（2026-06-07）
 - [Emigre 综合](design-emigre-synthesis.md) — 9 篇 v5 深读·foundry+杂志 1990s 范本
 - [Pentagram 综合](design-pentagram-synthesis.md) — 18 篇 v5+v6 深读·50 年 designer-owned 模式
 - [Pentagram Extended](design-pentagram-extended-synthesis.md) — 12+ 合伙人扩展·10 个新项目
@@ -111,9 +111,9 @@
 - [5 份 Pre-Digest Notes 综合](design-notes-pre-digest-synthesis.md) — Müller-Brockmann/Vignelli/字体公司/Pentagram IEEE/2026 博客/shadcn 源码
 - [824 篇深读计划索引](design-corpus-deep-digest.md) — 哪些读了/哪些待读/怎么读·K=30 cluster 表
 
-### 13. 行为偏好
+### 14. 行为偏好
 - 能跑就别动 — 历史行为偏好：能用就别清理；整理旧凭证或死引用要先确认语义，不要为了“干净”破坏可用状态。
 
 ---
 **当前统计**：以 [HANDOVER.md](HANDOVER.md) 的快照为准；运行 `python3 scripts/check-docs.py` 可检查链接和统计是否同步。
-**盲点进度**：原 9 个盲点全部填补（详见 [HANDOVER.md](HANDOVER.md)）
+**盲点进度**：原 9 个盲点已有对应文件，是否足够仍以真实项目验证为准（详见 [HANDOVER.md](HANDOVER.md)）。

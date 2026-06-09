@@ -1,15 +1,15 @@
 ---
 name: design-ultimate-handbook
-description: 人类设计美学百科全书 - 东方+西方+UX+数据+品牌+摄影 终极版 - 9轮研究综合
-metadata: 
+description: 设计美学手册 - 东方+西方+UX+数据+品牌+摄影 - 9轮研究综合
+metadata:
   node_type: memory
   type: project
   originSessionId: 3f38aac3-2f3d-4319-970a-92f048d2d27d
 ---
 
-# 人类设计美学百科全书（最终综合版）
+# 设计美学手册
 
-> 9 轮研究 · 60+ 来源 · 横跨东西方 5 个世纪的设计智慧
+> 9 轮研究 · 60+ 来源 · 东西方设计主题综合
 > 适用：网页 / PPT / 海报 / App / 程序 / 品牌 / 数据可视化
 
 ## 总纲：好设计的五个共同真理

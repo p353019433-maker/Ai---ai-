@@ -6,9 +6,9 @@ guidance quickly without reading the full corpus first.
 
 ## Current Snapshot
 
-- Markdown files: 124
+- Markdown files: 136
 - `docs/`: 88 Markdown files
-- `research/`: 34 Markdown files
+- `research/`: 46 Markdown files
 - `corpus/`: raw-body removal note and evidence routing
 - Primary validation: `python3 scripts/check-docs.py`
 

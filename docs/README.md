@@ -1,25 +1,23 @@
-# Docs — Design Knowledge Layer
+# Docs
 
-这里放最终可读、可直接应用的设计知识。
+`docs/` 是可直接使用的设计知识层。需要追溯来源时再去 `research/`。
 
-## 最重要入口
+## 先读这 4 份
 
-- [`design-decision-handbook.md`](design-decision-handbook.md)：按具体设计问题路由到对应文件。
-- [`design-ultimate-handbook.md`](design-ultimate-handbook.md)：跨主题总纲。
-- [`design-philosophy-master.md`](design-philosophy-master.md)：设计哲学总纲。
-- [`APPLIED-DESIGN-JUDGMENT.md`](APPLIED-DESIGN-JUDGMENT.md)：把 25 批学习转成应用判断。
-- [`DESIGN-CONFLICTS.md`](DESIGN-CONFLICTS.md)：原则冲突和取舍。
-- [`DESIGN-ANTI-PORTFOLIO.md`](DESIGN-ANTI-PORTFOLIO.md)：认知转变和错觉修正。
-- [`LESS-AMNESIAC-DESIGN.md`](LESS-AMNESIAC-DESIGN.md)：核心洞察：坏 AI 设计是失忆的设计。
-- [`DESIGN-LAB-PROTOCOL.md`](DESIGN-LAB-PROTOCOL.md)：从档案进入真实项目验证的协议。
+1. [design-decision-handbook.md](design-decision-handbook.md) — 不知道该看哪份时，从这里路由。
+2. [APPLIED-DESIGN-JUDGMENT.md](APPLIED-DESIGN-JUDGMENT.md) — 把研究转成设计判断和反 AI-slop 清单。
+3. [LESS-AMNESIAC-DESIGN.md](LESS-AMNESIAC-DESIGN.md) — 核心观点：坏 AI 设计是失忆的设计。
+4. [DESIGN-LAB-PROTOCOL.md](DESIGN-LAB-PROTOCOL.md) — 把原则放进真实项目验证。
 
-## 完整索引
+## 其他入口
 
-- [`MEMORY.md`](MEMORY.md)：原 Claude design memory 索引。
-- [`HANDOVER.md`](HANDOVER.md)：当前 handover，解释这套知识库怎么使用和维护。
+- [MEMORY.md](MEMORY.md)：主题索引。
+- [HANDOVER.md](HANDOVER.md)：仓库结构、维护规则和证据边界。
+- [DESIGN-CONFLICTS.md](DESIGN-CONFLICTS.md)：原则冲突和取舍。
+- [DESIGN-ANTI-PORTFOLIO.md](DESIGN-ANTI-PORTFOLIO.md)：认知转变和错觉修正。
 
 ## 文件类型
 
-- `design-*.md`：主题手册、案例、设计系统、平台、AI 工作流等。
-- `design-*-synthesis.md`：深读综合。
-- 全大写文件：后续应用判断、冲突、反思、实验协议。
+- `design-*.md`：主题手册、案例、设计系统、平台、AI 工作流。
+- `design-*-synthesis.md`：深读综合，适合查背景，不适合作为第一入口。
+- 全大写文件：应用判断、冲突、反思、验证协议。

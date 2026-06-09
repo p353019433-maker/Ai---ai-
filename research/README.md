@@ -1,6 +1,6 @@
 # Research — Process and Audit Layer
 
-这里放研究过程，不是最终手册。
+这里放研究过程，不是应用手册。
 
 ## 入口
 
@@ -22,3 +22,6 @@
 ## 注意
 
 这个目录的作用是可审计，不是好读。想直接应用设计判断请看 [`../docs/`](../docs/)。
+
+JSON metadata files still retain `body_head` and `body_tail` audit excerpts for
+source-tracing context. These excerpts are not full article bodies.

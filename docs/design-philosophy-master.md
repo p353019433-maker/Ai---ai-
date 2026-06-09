@@ -1,13 +1,13 @@
 ---
 name: design-philosophy-master
-description: 设计师级去AI化设计哲学最终手册 - 色彩/字体/层级/布局/AI反套路 + 东方+西方美学融合
-metadata: 
+description: 去 AI 化设计哲学总纲 - 色彩/字体/层级/布局/AI 反套路 + 东方+西方美学融合
+metadata:
   node_type: memory
   type: project
   originSessionId: 3f38aac3-2f3d-4319-970a-92f048d2d27d
 ---
 
-# 去 AI 化设计哲学总纲（最终版）
+# 去 AI 化设计哲学总纲
 
 ## 第一性原理
 AI 廉价 = 训练自最大公约数审美 → 输出安全、均匀、套路化。三大原型问题：
