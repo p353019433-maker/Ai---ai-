@@ -1,23 +1,35 @@
-# Docs
+# Docs — 设计知识层（蒸馏版）
 
-`docs/` 是可直接使用的设计知识层。需要追溯来源时再去 `research/`。
+2026-06 起，本目录由 88 份文档蒸馏为 7 份。原 88 份全文保留在 git 历史（commit `52f2279` 及之前），证据链在 [`../research/`](../research/)。
 
-## 先读这 4 份
+## 七份文档
 
-1. [design-decision-handbook.md](design-decision-handbook.md) — 不知道该看哪份时，从这里路由。
-2. [APPLIED-DESIGN-JUDGMENT.md](APPLIED-DESIGN-JUDGMENT.md) — 把研究转成设计判断和反 AI-slop 清单。
-3. [LESS-AMNESIAC-DESIGN.md](LESS-AMNESIAC-DESIGN.md) — 核心观点：坏 AI 设计是失忆的设计。
-4. [DESIGN-LAB-PROTOCOL.md](DESIGN-LAB-PROTOCOL.md) — 把原则放进真实项目验证。
+| 文件 | 内容 | 什么时候读 |
+|---|---|---|
+| [`00-core.md`](00-core.md) | 核心命题（失忆论）、十原则、七冲突与元规则、十个认知修正 | 做任何判断前；评审别人或 AI 的产出前 |
+| [`01-craft.md`](01-craft.md) | 字体/色彩/布局/组件/文案/动效/数据可视化的数值规则 | 动手做 UI 时随手查 |
+| [`02-systems-ai.md`](02-systems-ai.md) | 设计系统、token、真实代码拆解、交付管线、AI 提示词与 AI 产品模式 | 建系统、配工具链、写设计 prompt 时 |
+| [`03-process.md`](03-process.md) | 评审、研究、A/B、IA、服务设计、定价合同、字体法律 | 跑流程、做研究、谈生意时 |
+| [`04-context.md`](04-context.md) | 平台方言、游戏、i18n/RTL、WCAG 2.2、伦理红线、垂直行业、中文排版 | 进入特定平台/行业/语言时 |
+| [`05-traditions.md`](05-traditions.md) | 设计史钟摆、各传统的"产生条件→机制"、大师与工作室、产品批评案例、借用传统 12 规则 | 选 art direction、援引传统、写批评时 |
+| [`06-practice.md`](06-practice.md) | 反 slop 13 项清单、去 AI 化配方、prompt 模板、四级验证协议 | 审 AI 产出、写 brief、做实验时 |
 
-## 其他入口
+## 快速路由
 
-- [MEMORY.md](MEMORY.md)：主题索引。
-- [HANDOVER.md](HANDOVER.md)：仓库结构、维护规则和证据边界。
-- [DESIGN-CONFLICTS.md](DESIGN-CONFLICTS.md)：原则冲突和取舍。
-- [DESIGN-ANTI-PORTFOLIO.md](DESIGN-ANTI-PORTFOLIO.md)：认知转变和错觉修正。
+- 「这个 AI 生成的设计行不行？」→ `06-practice` 清单 → `00-core` 七层记忆审问
+- 「字号/行高/颜色/间距具体取多少？」→ `01-craft`
+- 「该不该建设计系统 / token 怎么分层？」→ `02-systems-ai`
+- 「prompt 怎么写才不出 slop？」→ `06-practice` 模板 + `02-systems-ai` 提示词工程
+- 「两条原则打架了听谁的？」→ `00-core` 七冲突与元规则
+- 「想要 Swiss/Memphis/日式的感觉」→ `05-traditions`（继承机制不是外观）
+- 「评审会怎么开 / 反馈怎么给？」→ `03-process`
+- 「中文排版 / RTL / 可访问性 / 医疗金融行业？」→ `04-context`
+- 「怎么验证这些原则真的有效？」→ `06-practice` 验证协议
 
-## 文件类型
+## 一句话版本
 
-- `design-*.md`：主题手册、案例、设计系统、平台、AI 工作流。
-- `design-*-synthesis.md`：深读综合，适合查背景，不适合作为第一入口。
-- 全大写文件：应用判断、冲突、反思、验证协议。
+> 坏 AI 设计不是没有美，是没有记忆。审它就问：这个形式记得什么人类处境？
+
+## 诚实标签
+
+这是**可审计的设计研究档案 + 应用综合层**（绝大多数主张是 L0 档案声明），不是经真实项目验证的设计操作系统。验证等级定义见 [`06-practice.md`](06-practice.md)。
