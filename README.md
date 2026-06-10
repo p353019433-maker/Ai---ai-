@@ -12,13 +12,12 @@ corpus/   原始文章正文证据库
 
 ## 先读什么
 
-如果你只是想用这套知识：
+如果你只是想用这套知识（docs/ 已于 2026-06 蒸馏为 7 份）：
 
-1. [`docs/README.md`](docs/README.md) — 可读知识库入口
-2. [`docs/design-decision-handbook.md`](docs/design-decision-handbook.md) — 按问题路由到具体文件
-3. [`docs/APPLIED-DESIGN-JUDGMENT.md`](docs/APPLIED-DESIGN-JUDGMENT.md) — 反 AI-slop 的应用判断
-4. [`docs/LESS-AMNESIAC-DESIGN.md`](docs/LESS-AMNESIAC-DESIGN.md) — 核心洞察：坏 AI 设计是“失忆”的设计
-5. [`docs/DESIGN-LAB-PROTOCOL.md`](docs/DESIGN-LAB-PROTOCOL.md) — 下一阶段：真实项目验证协议
+1. [`docs/README.md`](docs/README.md) — 入口与快速路由
+2. [`docs/00-core.md`](docs/00-core.md) — 核心判断：坏 AI 设计是”失忆”的设计 + 十原则 + 冲突取舍
+3. [`docs/01-craft.md`](docs/01-craft.md) — 工艺数值规则（字体/色彩/布局/组件/动效）
+4. [`docs/06-practice.md`](docs/06-practice.md) — 反 slop 清单、prompt 模板、验证协议
 
 如果你要审计研究过程：
 

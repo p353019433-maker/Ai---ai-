@@ -4,12 +4,7 @@ This file is the old `learning-notes/INDEX.md` kept for provenance after the rep
 
 Current structure:
 
-- Applied synthesis files now live in [`../docs/`](../docs/):
-  - `APPLIED-DESIGN-JUDGMENT.md`
-  - `DESIGN-CONFLICTS.md`
-  - `DESIGN-ANTI-PORTFOLIO.md`
-  - `LESS-AMNESIAC-DESIGN.md`
-  - `DESIGN-LAB-PROTOCOL.md`
+- Applied synthesis files lived in `../docs/` (`APPLIED-DESIGN-JUDGMENT.md`, `DESIGN-CONFLICTS.md`, `DESIGN-ANTI-PORTFOLIO.md`, `LESS-AMNESIAC-DESIGN.md`, `DESIGN-LAB-PROTOCOL.md`); in 2026-06 they were distilled — together with the topic handbooks — into the current 7-file set in [`../docs/`](../docs/). Originals remain in git history.
 - Batch notes now live in [`batches/`](batches/).
 - The processing ledger is [`processed-manifest.csv`](processed-manifest.csv).
 - Raw article bodies were distilled into [`batches/`](batches/) and then removed; see [`../corpus/README.md`](../corpus/README.md).
